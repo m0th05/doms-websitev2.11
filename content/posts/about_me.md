@@ -1,8 +1,8 @@
-+++ 
-title = "About me" 
-date = "2025-09-22" 
-[taxodomies] 
-tags = ["me"] 
++++
+title = "About me"
+date = "2025-09-22"
+[taxodomies]
+tags = ["me me"]
 +++
 
 ## Hi, Im Dom
