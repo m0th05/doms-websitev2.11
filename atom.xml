@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Dom</title>
+    <subtitle>I still dont know how to make a website</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://m0th05.github.io/doms-websitev2.11/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://m0th05.github.io/doms-websitev2.11"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-09-22T00:00:00+00:00</updated>
+    <id>https://m0th05.github.io/doms-websitev2.11/atom.xml</id>
+    <entry xml:lang="en">
+        <title>About me</title>
+        <published>2025-09-22T00:00:00+00:00</published>
+        <updated>2025-09-22T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              -k
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://m0th05.github.io/doms-websitev2.11/posts/about_me/"/>
+        <id>https://m0th05.github.io/doms-websitev2.11/posts/about_me/</id>
+        
+        <content type="html" xml:base="https://m0th05.github.io/doms-websitev2.11/posts/about_me/">&lt;h2 id=&quot;Hi,_Im_Dom&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Hi,_Im_Dom&quot; aria-label=&quot;Anchor link for: Hi,_Im_Dom&quot;&gt;#&lt;&#x2F;a&gt;Hi, Im Dom&lt;&#x2F;h2&gt;
+&lt;p&gt;I am a computer engineering student in the second year and I am Polish&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Hobbies_include:&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Hobbies_include:&quot; aria-label=&quot;Anchor link for: Hobbies_include:&quot;&gt;#&lt;&#x2F;a&gt;Hobbies include:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tech&lt;&#x2F;li&gt;
+&lt;li&gt;Audio&lt;&#x2F;li&gt;
+&lt;li&gt;TCG(kind of)&lt;&#x2F;li&gt;
+&lt;li&gt;Gaming (modern and retro)&lt;&#x2F;li&gt;
+&lt;li&gt;Anime and Manga&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;I stream from time to time as well (ill link the twitch at somepoint)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Favourite_Anime_and_Manga_(in_order):&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Favourite_Anime_and_Manga_(in_order):&quot; aria-label=&quot;Anchor link for: Favourite_Anime_and_Manga_(in_order):&quot;&gt;#&lt;&#x2F;a&gt;Favourite Anime and Manga (in order):&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Blue Lock&lt;&#x2F;li&gt;
+&lt;li&gt;Bungou Stray Dogs&lt;&#x2F;li&gt;
+&lt;li&gt;Demon Slayer&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;Currently_reading&#x2F;watching:&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Currently_reading&amp;#x2F;watching:&quot; aria-label=&quot;Anchor link for: Currently_reading&amp;#x2F;watching:&quot;&gt;#&lt;&#x2F;a&gt;Currently reading&#x2F;watching:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sakamoto Days&lt;&#x2F;li&gt;
+&lt;li&gt;Blue Lock&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;Favourite_Games:&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Favourite_Games:&quot; aria-label=&quot;Anchor link for: Favourite_Games:&quot;&gt;#&lt;&#x2F;a&gt;Favourite Games:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Persona (4 and 5)&lt;&#x2F;li&gt;
+&lt;li&gt;Borderlands (Whole series)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;Programming_experience:&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Programming_experience:&quot; aria-label=&quot;Anchor link for: Programming_experience:&quot;&gt;#&lt;&#x2F;a&gt;Programming experience:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rust&lt;&#x2F;li&gt;
+&lt;li&gt;Python&lt;&#x2F;li&gt;
+&lt;li&gt;C#&lt;&#x2F;li&gt;
+&lt;li&gt;C&lt;&#x2F;li&gt;
+&lt;li&gt;C++&lt;&#x2F;li&gt;
+&lt;li&gt;Java&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;this_is_all_youre_getting_smh_anything_else_you_want_to_know_just_ask_and_I_might_answer&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#this_is_all_youre_getting_smh_anything_else_you_want_to_know_just_ask_and_I_might_answer&quot; aria-label=&quot;Anchor link for: this_is_all_youre_getting_smh_anything_else_you_want_to_know_just_ask_and_I_might_answer&quot;&gt;#&lt;&#x2F;a&gt;this is all youre getting smh anything else you want to know just ask and I might answer&lt;&#x2F;h2&gt;
+</content>
+        
+    </entry>
+</feed>
