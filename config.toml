@@ -55,7 +55,7 @@ footer = true
 
 [extra.images]
 home = "https://failsafe.monster/c1tyh4ll.png"
-post_list = "https://failsafe.monster/bk-prk.jpg"
+post_list = "https://failsafe.vmonster/bk-prk.jpg"
 default_post = "https://failsafe.monster/bk-prk.jpg"
 categories = [
     { name = "media", image = "https://raw.githubusercontent.com/bearcott/8bit-art/master/cities/urban.gif" },
@@ -70,7 +70,7 @@ copyright = true
 stack = true
 
 [extra.social]
-codeberg = "m0thman70"
+codeberg = "m0th05"
 github = "m0th05"
 lastfm = "m0th05"
 
